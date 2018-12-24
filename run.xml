@@ -5,5 +5,5 @@
     <classes>
       <class name="GitHub.gittest.MyTest"/>
     </classes>
-  </test> <!-- Default test -->
-</suite> <!-- Default suite -->
+  </test> 
+</suite> 
