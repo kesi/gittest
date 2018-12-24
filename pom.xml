@@ -13,7 +13,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-<!-- TestNG suite XML files sdsdsfddsfsdf -->
+<!-- TestNG suite XML files sdsdsfddsfsdf kkk-->
 	<build>
 		<plugins>
 			<plugin>
