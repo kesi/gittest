@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Oracel Apllication">
+	<parameter name="Browser" value="Chrome" />
+	<test name="Automation testing on Oracle">
+		<classes>
+
+			 <class name="testCases.Create_Employee_Zeop" />
+			<class name="testCases.Invoice_Creation_Zeop" />
+			
+			<!--  <class name="testCases.Invoice_Creation_Fail_Zeop" /> -->
+		</classes>
+	</test>
+</suite>
