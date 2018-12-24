@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27508" started-at="2018-12-24T07:04:50Z" finished-at="2018-12-24T07:05:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27508" started-at="2018-12-24T07:04:50Z" finished-at="2018-12-24T07:05:18Z">
+      <class name="GitHub.gittest.MyTest">
+        <test-method status="PASS" signature="open()[pri:0, instance:GitHub.gittest.MyTest@1b0375b3]" name="open" duration-ms="22389" started-at="2018-12-24T12:34:50Z" finished-at="2018-12-24T12:35:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="close()[pri:0, instance:GitHub.gittest.MyTest@1b0375b3]" name="close" is-config="true" duration-ms="5071" started-at="2018-12-24T12:35:13Z" finished-at="2018-12-24T12:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- GitHub.gittest.MyTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
