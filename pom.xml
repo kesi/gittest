@@ -22,7 +22,7 @@
 				<version>2.20</version>
 				<configuration>
 					<suiteXmlFiles>
-						<!-- TestNG suite XML files test -->
+						<!-- TestNG suite XML files testsss -->
 						<suiteXmlFile>run.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
